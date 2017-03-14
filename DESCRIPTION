@@ -1,0 +1,11 @@
+Package: USHomeless
+Type: Package
+Title: A data package for US Homelessness research
+Version: 0.1.0
+Author: Yun You
+Maintainer: Yun You <yun.erin.you@gmail.com>
+Description: Various datasets and shapefiles for US homelessness research
+Imports: sp (>= 1.2-3)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
